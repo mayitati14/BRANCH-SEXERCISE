@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 En la carpeta común-arreglos hemos dejado la solución
 necesito que sea puente el 15 festivo que guay!
+=======
+En la carpeta común-arreglos hemos dejado la solución, 
+en mi pais irse de parche es irse de fiesta! :)
+
+>>>>>>> pruebas
